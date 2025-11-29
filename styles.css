@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, sans-serif;
+    background: 	#727D90;
+}
+.container {
+    width: 800px;
+    margin: auto;
+    background: 	#B7C5D2;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    
+}
+.card {
+    padding: 10px;
+    background: 	#B7C5D2;
+    border-radius: 10px;
+    width: 400px;
+    
+}
+.btn {
+    display: inline-block;
+    padding: 10px 15px;
+    background: black;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    margin-top: 10px;
+}
+.output {
+    background: #B7C5D2;
+    padding: 10px;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+table {
+    width: auto;
+    max-width: 800px;
+    border-collapse: collapse;
+    margin: 20px;
+    justify-content: center;
+    display: flex;
+}
+th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+.container-history{
+    width: 800px;
+    display: inline-block;
+    background: #B7C5D2;
+    padding: 20px;
+    border-radius: 20px;
+
+    margin: 20px;
+}
+.gambar{
+    width: 40%;
+    height: 40%;
+   
+}
+
+h1{
+    width: 800px; 
+    margin: 30px auto 0 auto; 
+    padding: 0 20px;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 15px;
+}
+.container-latihan{
+    width: 800px;
+    background: #B7C5D2;
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header{
+    width: 800px; 
+    margin: 30px auto 0 auto; 
+    padding: 0 20px;
+}
