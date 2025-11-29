@@ -19,7 +19,8 @@ menggunakan laragon :
 2. jalankan apache
 3. klik kanan -> klik www -> klik folder dengan nama responsi PBO atau tempat menyimpan semua file yang ada disini
    
-   ![Responsi_PBO.gif](https://github.com/oxyy25/M.-Fawaz-Akbar_H1H024046_ResponsiPBO25/blob/main/Responsi_PBO.gif))
+   ![Responsi_PBO.gif](https://github.com/oxyy25/M.-Fawaz-Akbar_H1H024046_ResponsiPBO25/blob/main/Responsi_PBO.gif)
+
 
 
 
