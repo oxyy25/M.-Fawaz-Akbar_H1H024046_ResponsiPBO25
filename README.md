@@ -18,5 +18,6 @@ menggunakan laragon :
 1. buka laragon
 2. jalankan apache
 3. klik kanan -> klik www -> klik folder dengan nama responsi PBO atau tempat menyimpan semua file yang ada disini
+   [vidio demonstrasi](Responsi_PBO.gif)
 
 
