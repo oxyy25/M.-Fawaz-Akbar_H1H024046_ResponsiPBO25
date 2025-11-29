@@ -19,7 +19,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             . "<p>Attack : {$before ['attack']} → {$after['attack']}</p>"
             . "<p>Defense : {$before ['defense']} → {$after['defense']}</p>"
             . "<p>Speed : {$before ['speed']} → {$after['speed']}</p>"
-            . "<p>Jurus Spesial: {$poke->specialMove()}</p>"
+            . "<p>Skill: {$poke->specialMove()}</p>"
             . "</div>";
 }
 ?>
